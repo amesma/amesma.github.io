@@ -1,3 +1,3 @@
 ---
+home_text: Ames Ma
 ---
-home_text : nothing so far
